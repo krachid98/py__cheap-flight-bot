@@ -25,7 +25,6 @@ from django.conf.locale import ms
 from selenium.webdriver.common.devtools.v113.target import send_message_to_target
 from sched import scheduler
 
-print('ciaso')
 
 #creo dizionario con le informazioni del volo, da dove parto a dove voglio arrivare e in quali dati
 input_partenza = {
